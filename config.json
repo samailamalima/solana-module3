@@ -1,0 +1,27 @@
+{
+  "price": 0.0001,
+  "number": 10,
+  "symbol": "NB",
+  "sellerFeeBasisPoints": 50,
+  "gatekeeper": null,
+  "solTreasuryAccount": null,
+  "splTokenAccount": "9yoTnLHcNn7yyBuDgxwF95epd2sKuREZxdVwmDRebxeW",
+  "splToken": "8hJEbFTcUebVYgMv9tWHfUbbfQxoaqAspfAviGoebY8j",
+  "goLiveDate": null,
+  "endSettings": null,
+  "whitelistMintSettings": null,
+  "hiddenSettings": null,
+  "uploadMethod": "bundlr",
+  "ipfsInfuraProjectId": null,
+  "ipfsInfuraSecret": null,
+  "nftStorageKey": null,
+  "awsS3Bucket": null,
+  "retainAuthority": true,
+  "isMutable": true,
+  "creators": [
+    {
+      "address": "9yoTnLHcNn7yyBuDgxwF95epd2sKuREZxdVwmDRebxeW",
+      "share": 100
+    }
+  ]
+}
